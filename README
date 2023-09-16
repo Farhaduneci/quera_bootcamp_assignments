@@ -1,6 +1,15 @@
 Quera Bootcamp Assignments
 ==========================
 
-This repo is here to host our team assignments on quera Go bootcamp!
+This repo is here to host our team assignments on Quera Go bootcamp! Let's Go...
 
-Let's Go...
+
+How to setup for local development
+----------------------------------
+
+Follow the steps below to get started working on this repository:
+
+1. Clone the repo
+2. Install pre-commit on your machine
+3. Run `pre-commit install`
+4. Code :D
