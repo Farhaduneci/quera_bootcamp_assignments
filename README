@@ -13,3 +13,24 @@ Follow the steps below to get started working on this repository:
 2. Install pre-commit on your machine
 3. Run `pre-commit install`
 4. Code :D
+
+
+How to use the sha256sums.txt files?
+------------------------------------
+
+These files exist in this repo due to the rules in the bootcamp, all team members must
+submit the same code in all group assignments. So thats why sha256sum might come handy.
+
+If you want to check your local files against the files in the repo run the following command:
+
+$ sha256sum -c sha256sums.txt
+
+The output must be like below:
+
+Q1.sh: OK
+Q2.sh: OK
+Q3.sql: OK
+Q4.sql: OK
+Q5.sql: OK
+
+If you see a bunvh of Oks, you're good to Go!
